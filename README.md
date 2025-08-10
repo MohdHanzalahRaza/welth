@@ -5,6 +5,7 @@ An intelligent personal finance management platform built with **Next.js 15**, *
 ---
 
 ## 🚀 Features
+
 - 📊 **Expense Tracking** – Log and categorize your daily transactions.
 - 📅 **Recurring Transactions** – Automate repetitive income and expense entries.
 - 📈 **Budget Alerts** – Get notified when you’re close to exceeding your budget.
@@ -15,11 +16,25 @@ An intelligent personal finance management platform built with **Next.js 15**, *
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** Next.js 15, React 19, Tailwind CSS, Radix UI
-- **Backend:** Next.js API Routes, Prisma, PostgreSQL
-- **AI:** Google Generative AI API
-- **Authentication:** Clerk
-- **Email Service:** Resend
-- **Task Scheduling:** Inngest
 
+- **Frontend:** Next.js 15, React 19, Tailwind CSS, Radix UI  
+- **Backend:** Next.js API Routes, Prisma, PostgreSQL  
+- **AI:** Google Generative AI API  
+- **Authentication:** Clerk  
+- **Email Service:** Resend  
+- **Task Scheduling:** Inngest  
 
+---
+
+## 📷 Screenshots
+
+### 🏠 Home Page
+![Home](screenshots/home.png)
+
+### 📊 Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### ➕ Add Transaction
+![Add Transaction](screenshots/add-transaction.png)
+
+---

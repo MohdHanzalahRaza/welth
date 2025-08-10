@@ -5,7 +5,7 @@ An intelligent personal finance management platform built with **Next.js 15**, *
 ---
 
 ## 🔗 Live Demo
-[View Project](https://welth-hanzalah-razas-projects.vercel.app/)
+[View Project](http://welth-three-iota.vercel.app/)
 
 ---
 
